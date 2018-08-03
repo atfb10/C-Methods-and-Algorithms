@@ -24,7 +24,7 @@ namespace ReverseArray
         }
 
         // method to reverse string and print result
-        public static void Reverse(char[] arr)
+        private static void Reverse(char[] arr)
         {
             for (int i = 0; i < arr.Length / 2; i++)
             {

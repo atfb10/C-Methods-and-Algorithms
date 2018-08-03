@@ -1,0 +1,11 @@
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.deps.json
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.json
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.dev.json
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.dll
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.pdb
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.csprojAssemblyReference.cache
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.csproj.CoreCompileInputs.cache
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfoInputs.cache
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfo.cs
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.dll
+E:\C#\C#_Algorithms_and_Methods\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.pdb
