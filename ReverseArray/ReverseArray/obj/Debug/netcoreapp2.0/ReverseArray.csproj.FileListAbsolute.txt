@@ -1,0 +1,11 @@
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.deps.json
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.runtimeconfig.json
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.runtimeconfig.dev.json
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.dll
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.pdb
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.csprojAssemblyReference.cache
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.csproj.CoreCompileInputs.cache
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.AssemblyInfoInputs.cache
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.AssemblyInfo.cs
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.dll
+E:\C#\C#_Algorithms_and_Methods\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.pdb
