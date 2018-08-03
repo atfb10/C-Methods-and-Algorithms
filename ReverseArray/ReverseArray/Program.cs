@@ -13,7 +13,7 @@ namespace ReverseArray
     {
         static void Main(string[] args)
         {
-            // Create test array
+            // Create array for testing purposes
             char[] alphabet = { 'a', 'b', 'c', 'd', 'e' };
 
             // call method and pass test array as arg
