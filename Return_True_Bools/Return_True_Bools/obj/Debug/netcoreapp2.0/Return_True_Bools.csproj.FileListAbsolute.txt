@@ -1,0 +1,11 @@
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\bin\Debug\netcoreapp2.0\Return_True_Bools.deps.json
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\bin\Debug\netcoreapp2.0\Return_True_Bools.runtimeconfig.json
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\bin\Debug\netcoreapp2.0\Return_True_Bools.runtimeconfig.dev.json
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\bin\Debug\netcoreapp2.0\Return_True_Bools.dll
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\bin\Debug\netcoreapp2.0\Return_True_Bools.pdb
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\obj\Debug\netcoreapp2.0\Return_True_Bools.csprojAssemblyReference.cache
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\obj\Debug\netcoreapp2.0\Return_True_Bools.csproj.CoreCompileInputs.cache
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\obj\Debug\netcoreapp2.0\Return_True_Bools.AssemblyInfoInputs.cache
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\obj\Debug\netcoreapp2.0\Return_True_Bools.AssemblyInfo.cs
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\obj\Debug\netcoreapp2.0\Return_True_Bools.dll
+E:\C#\C#_Algorithms_and_Methods\Return_True_Bools\Return_True_Bools\obj\Debug\netcoreapp2.0\Return_True_Bools.pdb
