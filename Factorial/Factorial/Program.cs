@@ -45,13 +45,18 @@ namespace Factorial
         // method to calculate factorial
         private static int Factorial(int n)
         {
-            // 0! = 1, 1! = 1
+            int[] mem = new int[n+1];
             if (n == 0 || n == 1)
             {
                 return 1;
             }
+            else if (mem[n] > 0)
+            {
+                return mem[n];
+            }
 
-            return n * Factorial(n - 1);
+            mem[n] = n * Factorial(n - 1);
+            return mem[n];
         }
     }
 }

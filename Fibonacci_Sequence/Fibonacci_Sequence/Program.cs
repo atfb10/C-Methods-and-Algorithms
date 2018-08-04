@@ -45,6 +45,7 @@ namespace Fibonacci_Sequence
         // method to calc fib value
         private static int Fib(int n)
         {
+            int[] mem = new int[n + 1];
             if (n == 0)
             {
                 return 0;
@@ -53,7 +54,12 @@ namespace Fibonacci_Sequence
             {
                 return 1;
             }
-            return Fib(n - 1) + Fib(n - 2);
+            else if (mem[n] > 0)
+            {
+                return mem[n];
+            }
+            mem[n] = Fib(n - 1) + Fib(n - 2);
+            return mem[n];
         }
     }
 }

@@ -12,7 +12,7 @@ namespace Fib_Value_Per_Indice
         static void Main(string[] args)
         {
             // user instructions
-            Console.WriteLine("Please enter positive integer");
+            Console.WriteLine("Select number of indexes");
             string userInput = Console.ReadLine();
             Console.WriteLine("--------------");
 
@@ -41,7 +41,7 @@ namespace Fib_Value_Per_Indice
         }
 
         // method to find fib value
-        private static int Fib(int n)
+        private static int Fib(int n, int[] mem)
         {
             if (n == 0)
             {
@@ -51,15 +51,22 @@ namespace Fib_Value_Per_Indice
             {
                 return 1;
             }
-            return Fib(n - 1) + Fib(n - 2);
+            else if (mem[n] > 0)
+            {
+                return mem[n];
+            }
+
+            mem[n] = Fib(n - 1, mem) + Fib(n - 2, mem);
+            return mem[n];
         }
 
         // method to show fib value by indice
         private static void EachFib(int n)
         {
+            int[] mem = new int[n + 1];
             for (int i = 0; i < n; i++)
             {
-                Console.WriteLine("Index {0}: {1}", i, Fib(i));
+                Console.WriteLine("Index {0}: {1}", i, Fib(i, mem));
             }
         } 
     }
