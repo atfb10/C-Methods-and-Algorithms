@@ -1,0 +1,11 @@
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.csprojAssemblyReference.cache
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.csproj.CoreCompileInputs.cache
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.AssemblyInfoInputs.cache
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.AssemblyInfo.cs
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.deps.json
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.runtimeconfig.json
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.runtimeconfig.dev.json
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.dll
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\bin\Debug\netcoreapp2.0\StringPermutation.pdb
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.dll
+E:\C#\C#_Algorithms_and_Methods\StringPermutation\StringPermutation\obj\Debug\netcoreapp2.0\StringPermutation.pdb
