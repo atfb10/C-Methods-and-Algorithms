@@ -1,0 +1,11 @@
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.deps.json
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.runtimeconfig.json
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.runtimeconfig.dev.json
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.dll
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.pdb
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.csprojAssemblyReference.cache
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.AssemblyInfoInputs.cache
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.AssemblyInfo.cs
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.dll
+E:\C#\C#_Algorithms_and_Methods\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.pdb
