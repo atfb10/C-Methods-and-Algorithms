@@ -1,0 +1,11 @@
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\bin\Debug\netcoreapp2.0\PowersOfTwo.deps.json
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\bin\Debug\netcoreapp2.0\PowersOfTwo.runtimeconfig.json
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\bin\Debug\netcoreapp2.0\PowersOfTwo.runtimeconfig.dev.json
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\bin\Debug\netcoreapp2.0\PowersOfTwo.dll
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\bin\Debug\netcoreapp2.0\PowersOfTwo.pdb
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\obj\Debug\netcoreapp2.0\PowersOfTwo.csprojAssemblyReference.cache
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\obj\Debug\netcoreapp2.0\PowersOfTwo.csproj.CoreCompileInputs.cache
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\obj\Debug\netcoreapp2.0\PowersOfTwo.AssemblyInfoInputs.cache
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\obj\Debug\netcoreapp2.0\PowersOfTwo.AssemblyInfo.cs
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\obj\Debug\netcoreapp2.0\PowersOfTwo.dll
+E:\C#\C#_Algorithms_and_Methods\PowersOfTwo\PowersOfTwo\obj\Debug\netcoreapp2.0\PowersOfTwo.pdb
