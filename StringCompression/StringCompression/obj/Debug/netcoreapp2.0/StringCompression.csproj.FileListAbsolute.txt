@@ -1,0 +1,11 @@
+E:\C#\General_Algorithms\StringCompression\StringCompression\bin\Debug\netcoreapp2.0\StringCompression.deps.json
+E:\C#\General_Algorithms\StringCompression\StringCompression\bin\Debug\netcoreapp2.0\StringCompression.runtimeconfig.json
+E:\C#\General_Algorithms\StringCompression\StringCompression\bin\Debug\netcoreapp2.0\StringCompression.runtimeconfig.dev.json
+E:\C#\General_Algorithms\StringCompression\StringCompression\bin\Debug\netcoreapp2.0\StringCompression.dll
+E:\C#\General_Algorithms\StringCompression\StringCompression\bin\Debug\netcoreapp2.0\StringCompression.pdb
+E:\C#\General_Algorithms\StringCompression\StringCompression\obj\Debug\netcoreapp2.0\StringCompression.csprojAssemblyReference.cache
+E:\C#\General_Algorithms\StringCompression\StringCompression\obj\Debug\netcoreapp2.0\StringCompression.csproj.CoreCompileInputs.cache
+E:\C#\General_Algorithms\StringCompression\StringCompression\obj\Debug\netcoreapp2.0\StringCompression.AssemblyInfoInputs.cache
+E:\C#\General_Algorithms\StringCompression\StringCompression\obj\Debug\netcoreapp2.0\StringCompression.AssemblyInfo.cs
+E:\C#\General_Algorithms\StringCompression\StringCompression\obj\Debug\netcoreapp2.0\StringCompression.dll
+E:\C#\General_Algorithms\StringCompression\StringCompression\obj\Debug\netcoreapp2.0\StringCompression.pdb
