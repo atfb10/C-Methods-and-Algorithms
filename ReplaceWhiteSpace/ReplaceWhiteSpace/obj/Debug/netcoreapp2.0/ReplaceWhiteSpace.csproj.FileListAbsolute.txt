@@ -1,0 +1,11 @@
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\bin\Debug\netcoreapp2.0\ReplaceWhiteSpace.deps.json
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\bin\Debug\netcoreapp2.0\ReplaceWhiteSpace.runtimeconfig.json
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\bin\Debug\netcoreapp2.0\ReplaceWhiteSpace.runtimeconfig.dev.json
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\bin\Debug\netcoreapp2.0\ReplaceWhiteSpace.dll
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\bin\Debug\netcoreapp2.0\ReplaceWhiteSpace.pdb
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\obj\Debug\netcoreapp2.0\ReplaceWhiteSpace.csprojAssemblyReference.cache
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\obj\Debug\netcoreapp2.0\ReplaceWhiteSpace.csproj.CoreCompileInputs.cache
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\obj\Debug\netcoreapp2.0\ReplaceWhiteSpace.AssemblyInfoInputs.cache
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\obj\Debug\netcoreapp2.0\ReplaceWhiteSpace.AssemblyInfo.cs
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\obj\Debug\netcoreapp2.0\ReplaceWhiteSpace.dll
+E:\C#\General_Algorithms\ReplaceWhiteSpace\ReplaceWhiteSpace\obj\Debug\netcoreapp2.0\ReplaceWhiteSpace.pdb
