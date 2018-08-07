@@ -1,0 +1,11 @@
+E:\C#\General_Algorithms\UniqueString\UniqueString\bin\Debug\netcoreapp2.0\UniqueString.deps.json
+E:\C#\General_Algorithms\UniqueString\UniqueString\bin\Debug\netcoreapp2.0\UniqueString.runtimeconfig.json
+E:\C#\General_Algorithms\UniqueString\UniqueString\bin\Debug\netcoreapp2.0\UniqueString.runtimeconfig.dev.json
+E:\C#\General_Algorithms\UniqueString\UniqueString\bin\Debug\netcoreapp2.0\UniqueString.dll
+E:\C#\General_Algorithms\UniqueString\UniqueString\bin\Debug\netcoreapp2.0\UniqueString.pdb
+E:\C#\General_Algorithms\UniqueString\UniqueString\obj\Debug\netcoreapp2.0\UniqueString.csprojAssemblyReference.cache
+E:\C#\General_Algorithms\UniqueString\UniqueString\obj\Debug\netcoreapp2.0\UniqueString.csproj.CoreCompileInputs.cache
+E:\C#\General_Algorithms\UniqueString\UniqueString\obj\Debug\netcoreapp2.0\UniqueString.AssemblyInfoInputs.cache
+E:\C#\General_Algorithms\UniqueString\UniqueString\obj\Debug\netcoreapp2.0\UniqueString.AssemblyInfo.cs
+E:\C#\General_Algorithms\UniqueString\UniqueString\obj\Debug\netcoreapp2.0\UniqueString.dll
+E:\C#\General_Algorithms\UniqueString\UniqueString\obj\Debug\netcoreapp2.0\UniqueString.pdb
