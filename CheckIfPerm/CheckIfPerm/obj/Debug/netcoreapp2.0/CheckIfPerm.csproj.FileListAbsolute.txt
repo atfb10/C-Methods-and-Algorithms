@@ -1,0 +1,11 @@
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\bin\Debug\netcoreapp2.0\CheckIfPerm.deps.json
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\bin\Debug\netcoreapp2.0\CheckIfPerm.runtimeconfig.json
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\bin\Debug\netcoreapp2.0\CheckIfPerm.runtimeconfig.dev.json
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\bin\Debug\netcoreapp2.0\CheckIfPerm.dll
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\bin\Debug\netcoreapp2.0\CheckIfPerm.pdb
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\obj\Debug\netcoreapp2.0\CheckIfPerm.csprojAssemblyReference.cache
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\obj\Debug\netcoreapp2.0\CheckIfPerm.csproj.CoreCompileInputs.cache
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\obj\Debug\netcoreapp2.0\CheckIfPerm.AssemblyInfoInputs.cache
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\obj\Debug\netcoreapp2.0\CheckIfPerm.AssemblyInfo.cs
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\obj\Debug\netcoreapp2.0\CheckIfPerm.dll
+E:\C#\General_Algorithms\CheckIfPerm\CheckIfPerm\obj\Debug\netcoreapp2.0\CheckIfPerm.pdb
