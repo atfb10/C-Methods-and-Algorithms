@@ -1,0 +1,11 @@
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.csprojAssemblyReference.cache
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.csproj.CoreCompileInputs.cache
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.AssemblyInfoInputs.cache
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.AssemblyInfo.cs
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.deps.json
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.runtimeconfig.json
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.runtimeconfig.dev.json
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.dll
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.pdb
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.dll
+E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.pdb
