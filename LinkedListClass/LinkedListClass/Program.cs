@@ -35,6 +35,18 @@ namespace LinkedListClass
             // final method test: clear
             list.Clear();
             Console.WriteLine("Is list empty? {0}", list.Empty);
+            Console.WriteLine();
+
+            // Create new linked list to test print list method
+            LinkedList printList = new LinkedList();
+            printList.Add("Adam");
+            printList.Add(10);
+            printList.Add(true);
+            printList.Add("Code");
+
+            // call print list method
+            printList.PrintLinkedList();
+
 
             // keep console open
             Console.Read();

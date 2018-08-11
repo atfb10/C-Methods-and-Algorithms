@@ -104,7 +104,7 @@ namespace LinkedListClass
 
             if (Empty || ind == 0)
             {
-                head = new Node(obj, this.head);
+                head = new Node(obj, head);
             }
             else
             {
@@ -281,6 +281,22 @@ namespace LinkedListClass
             get
             {
                 return Get(index);
+            }
+        }
+
+        /// <summary>
+        /// Print entire linked list
+        /// Create current node at head
+        /// While current doesn't equal nothing, print current's data and set current = next node
+        /// </summary>
+        public void PrintLinkedList()
+        {
+            Node current = head;
+
+            while (current != null)
+            {
+                Console.WriteLine(current.Data);
+                current = current.Next;
             }
         }
     }
