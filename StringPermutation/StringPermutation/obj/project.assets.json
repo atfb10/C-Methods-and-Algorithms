@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\C#_Algorithms_and_Methods\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
+      "projectUniqueName": "E:\\C#\\General_Algorithms\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
       "projectName": "StringPermutation",
-      "projectPath": "E:\\C#\\C#_Algorithms_and_Methods\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
+      "projectPath": "E:\\C#\\General_Algorithms\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\C#_Algorithms_and_Methods\\StringPermutation\\StringPermutation\\obj\\",
+      "outputPath": "E:\\C#\\General_Algorithms\\StringPermutation\\StringPermutation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

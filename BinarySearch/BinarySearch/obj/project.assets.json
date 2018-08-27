@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\C#_Algorithms_and_Methods\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+      "projectUniqueName": "E:\\C#\\General_Algorithms\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
       "projectName": "BinarySearch",
-      "projectPath": "E:\\C#\\C#_Algorithms_and_Methods\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+      "projectPath": "E:\\C#\\General_Algorithms\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\C#_Algorithms_and_Methods\\BinarySearch\\BinarySearch\\obj\\",
+      "outputPath": "E:\\C#\\General_Algorithms\\BinarySearch\\BinarySearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
