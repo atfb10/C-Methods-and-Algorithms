@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\obj\Debug\netcoreapp2.1\MinValue_In_Stack.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\obj\Debug\netcoreapp2.1\MinValue_In_Stack.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\obj\Debug\netcoreapp2.1\MinValue_In_Stack.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\obj\Debug\netcoreapp2.1\MinValue_In_Stack.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\bin\Debug\netcoreapp2.1\MinValue_In_Stack.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\bin\Debug\netcoreapp2.1\MinValue_In_Stack.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\bin\Debug\netcoreapp2.1\MinValue_In_Stack.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\bin\Debug\netcoreapp2.1\MinValue_In_Stack.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\bin\Debug\netcoreapp2.1\MinValue_In_Stack.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\obj\Debug\netcoreapp2.1\MinValue_In_Stack.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\MinValue_In_Stack\MinValue_In_Stack\obj\Debug\netcoreapp2.1\MinValue_In_Stack.pdb
