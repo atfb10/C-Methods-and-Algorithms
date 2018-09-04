@@ -1,0 +1,10 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\bin\Debug\netcoreapp2.1\UniqueSubStrings_In_String.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\bin\Debug\netcoreapp2.1\UniqueSubStrings_In_String.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\bin\Debug\netcoreapp2.1\UniqueSubStrings_In_String.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\bin\Debug\netcoreapp2.1\UniqueSubStrings_In_String.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\bin\Debug\netcoreapp2.1\UniqueSubStrings_In_String.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\obj\Debug\netcoreapp2.1\UniqueSubStrings_In_String.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\obj\Debug\netcoreapp2.1\UniqueSubStrings_In_String.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\obj\Debug\netcoreapp2.1\UniqueSubStrings_In_String.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\obj\Debug\netcoreapp2.1\UniqueSubStrings_In_String.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\UniqueSubStrings_In_String\UniqueSubStrings_In_String\obj\Debug\netcoreapp2.1\UniqueSubStrings_In_String.pdb
