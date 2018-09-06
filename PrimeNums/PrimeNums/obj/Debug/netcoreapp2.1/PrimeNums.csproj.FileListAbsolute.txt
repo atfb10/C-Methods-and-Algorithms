@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\bin\Debug\netcoreapp2.1\PrimeNums.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\bin\Debug\netcoreapp2.1\PrimeNums.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\bin\Debug\netcoreapp2.1\PrimeNums.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\bin\Debug\netcoreapp2.1\PrimeNums.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\bin\Debug\netcoreapp2.1\PrimeNums.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\obj\Debug\netcoreapp2.1\PrimeNums.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\obj\Debug\netcoreapp2.1\PrimeNums.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\obj\Debug\netcoreapp2.1\PrimeNums.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\obj\Debug\netcoreapp2.1\PrimeNums.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\obj\Debug\netcoreapp2.1\PrimeNums.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\PrimeNums\PrimeNums\obj\Debug\netcoreapp2.1\PrimeNums.pdb
