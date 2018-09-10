@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\bin\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\bin\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\bin\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\bin\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\bin\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\obj\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\obj\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\obj\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\obj\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\obj\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\Find_Num_Duplicates_Array\Find_Num_Duplicates_Array\obj\Debug\netcoreapp2.1\Find_Num_Duplicates_Array.pdb
