@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\bin\Debug\netcoreapp2.1\LinearSearch.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\bin\Debug\netcoreapp2.1\LinearSearch.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\bin\Debug\netcoreapp2.1\LinearSearch.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\bin\Debug\netcoreapp2.1\LinearSearch.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\bin\Debug\netcoreapp2.1\LinearSearch.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\obj\Debug\netcoreapp2.1\LinearSearch.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\obj\Debug\netcoreapp2.1\LinearSearch.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\obj\Debug\netcoreapp2.1\LinearSearch.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\obj\Debug\netcoreapp2.1\LinearSearch.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\obj\Debug\netcoreapp2.1\LinearSearch.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinearSearch\LinearSearch\obj\Debug\netcoreapp2.1\LinearSearch.pdb
