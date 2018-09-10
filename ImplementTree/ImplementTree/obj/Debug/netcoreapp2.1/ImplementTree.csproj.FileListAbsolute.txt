@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\bin\Debug\netcoreapp2.1\ImplementTree.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\bin\Debug\netcoreapp2.1\ImplementTree.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\bin\Debug\netcoreapp2.1\ImplementTree.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\bin\Debug\netcoreapp2.1\ImplementTree.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\bin\Debug\netcoreapp2.1\ImplementTree.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\obj\Debug\netcoreapp2.1\ImplementTree.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\obj\Debug\netcoreapp2.1\ImplementTree.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\obj\Debug\netcoreapp2.1\ImplementTree.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\obj\Debug\netcoreapp2.1\ImplementTree.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\obj\Debug\netcoreapp2.1\ImplementTree.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\ImplementTree\ImplementTree\obj\Debug\netcoreapp2.1\ImplementTree.pdb
