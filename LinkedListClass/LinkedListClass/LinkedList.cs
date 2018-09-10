@@ -299,5 +299,29 @@ namespace LinkedListClass
                 current = current.Next;
             }
         }
+
+        /// <summary>
+        /// Checks if linked list is a cycle
+        /// Create two seperate nodes
+        /// </summary>
+        /// <returns></returns>
+        public bool HasCycle()
+        {
+            Node current = head;
+            Node fast = head;
+
+            while (current != null && fast != null && fast.Next != null)
+            {
+                current = current.Next;
+                fast = fast.Next.Next;
+
+                if (current == fast)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
     }
 }

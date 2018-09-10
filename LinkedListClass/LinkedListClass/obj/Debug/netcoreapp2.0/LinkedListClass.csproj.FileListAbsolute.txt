@@ -9,3 +9,14 @@ E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0
 E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.pdb
 E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.dll
 E:\C#\General_Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\bin\Debug\netcoreapp2.0\LinkedListClass.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\LinkedListClass\LinkedListClass\obj\Debug\netcoreapp2.0\LinkedListClass.pdb

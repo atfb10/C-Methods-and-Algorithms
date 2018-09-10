@@ -47,6 +47,8 @@ namespace LinkedListClass
             // call print list method
             printList.PrintLinkedList();
 
+            // check if cycle exists
+            Console.WriteLine("\n" + printList.HasCycle());
 
             // keep console open
             Console.Read();
