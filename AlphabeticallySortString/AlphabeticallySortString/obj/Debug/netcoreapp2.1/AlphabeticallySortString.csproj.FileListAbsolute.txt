@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\bin\Debug\netcoreapp2.1\AlphabeticallySortString.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\bin\Debug\netcoreapp2.1\AlphabeticallySortString.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\bin\Debug\netcoreapp2.1\AlphabeticallySortString.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\bin\Debug\netcoreapp2.1\AlphabeticallySortString.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\bin\Debug\netcoreapp2.1\AlphabeticallySortString.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\obj\Debug\netcoreapp2.1\AlphabeticallySortString.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\obj\Debug\netcoreapp2.1\AlphabeticallySortString.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\obj\Debug\netcoreapp2.1\AlphabeticallySortString.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\obj\Debug\netcoreapp2.1\AlphabeticallySortString.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\obj\Debug\netcoreapp2.1\AlphabeticallySortString.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\AlphabeticallySortString\AlphabeticallySortString\obj\Debug\netcoreapp2.1\AlphabeticallySortString.pdb
