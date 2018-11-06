@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Owner\\.nuget\\packages\\": {},
+    "C:\\Users\\afore\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\General_Algorithms\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
+      "projectUniqueName": "D:\\General_Algorithms\\CSharp-Methods-and-Algorithms\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
       "projectName": "StringPermutation",
-      "projectPath": "E:\\C#\\General_Algorithms\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
-      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\General_Algorithms\\StringPermutation\\StringPermutation\\obj\\",
+      "projectPath": "D:\\General_Algorithms\\CSharp-Methods-and-Algorithms\\StringPermutation\\StringPermutation\\StringPermutation.csproj",
+      "packagesPath": "C:\\Users\\afore\\.nuget\\packages\\",
+      "outputPath": "D:\\General_Algorithms\\CSharp-Methods-and-Algorithms\\StringPermutation\\StringPermutation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\afore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
