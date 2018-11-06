@@ -1,0 +1,11 @@
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\bin\Debug\netcoreapp2.1\StringSpaces.deps.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\bin\Debug\netcoreapp2.1\StringSpaces.runtimeconfig.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\bin\Debug\netcoreapp2.1\StringSpaces.runtimeconfig.dev.json
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\bin\Debug\netcoreapp2.1\StringSpaces.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\bin\Debug\netcoreapp2.1\StringSpaces.pdb
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\obj\Debug\netcoreapp2.1\StringSpaces.csprojAssemblyReference.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\obj\Debug\netcoreapp2.1\StringSpaces.csproj.CoreCompileInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\obj\Debug\netcoreapp2.1\StringSpaces.AssemblyInfoInputs.cache
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\obj\Debug\netcoreapp2.1\StringSpaces.AssemblyInfo.cs
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\obj\Debug\netcoreapp2.1\StringSpaces.dll
+D:\General_Algorithms\CSharp-Methods-and-Algorithms\StringSpaces\StringSpaces\obj\Debug\netcoreapp2.1\StringSpaces.pdb
